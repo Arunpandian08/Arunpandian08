@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arunpandianda123@gmail.com**
 
-- ⚡ Fun fact **Eat && code && music && learn && code**
+- ⚡ Fun fact **_Eat && code && music && learn && code_**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
