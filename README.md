@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arunpandian</h1>
+>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+    <dotlottie-player src="https://lottie.host/4ff271f1-1c3e-46d4-b82c-cf76eba5153d/BRWpaXAzWM.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay><h1 align="center">Hi 👋, I'm Arunpandian</h1</dotlottie-player>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunpandian08&label=Profile%20views&color=0e75b6&style=flat" alt="arunpandian08" /> </p>
