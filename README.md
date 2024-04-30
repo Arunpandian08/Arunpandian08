@@ -1,5 +1,5 @@
 <div>
-    <p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" alt="img"  width: 100%; height: 100%;></p>
+    <p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" alt="img"  width: 100%; height: 70%;></p>
 </div>
 <h1 align="center">Hi 👋, I'm Arunpandian</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
