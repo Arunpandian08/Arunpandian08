@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Stack Developement**
 
-- 👨‍💻 All of my projects are available at [https://arun-full-stack-developer-8397.netlify.app/](https://arun-full-stack-developer-8397.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://arun-full-stack-developer-8397.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, NodeJS, Express, MongoDB, Bootstrap, GSAP**
 
 - 📫 How to reach me **arunpandianda123@gmail.com || arunfsd123@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14UAWklqLes5z5VkDhamvjUh-Fo9ce14y/view](https://drive.google.com/file/d/14UAWklqLes5z5VkDhamvjUh-Fo9ce14y/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14UAWklqLes5z5VkDhamvjUh-Fo9ce14y/view)
 
 - ⚡ Fun fact **Learn && Practice && Food**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunpandian08&show_icons=true&locale=en&layout=compact" alt="arunpandian08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunpandian08&show_icons=true&locale=en" alt="arunpandian08" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunpandian08&" alt="arunpandian08" /></p>
