@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, NodeJS, Express, MongoDB, Bootstrap, GSAP**
 
-- 📫 How to reach me **[arunpandianda123@gmail.com](arunpandianda123@gmail.com)**
+- 📫 How to reach me **arunpandianda123@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14UAWklqLes5z5VkDhamvjUh-Fo9ce14y/view)
 
