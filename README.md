@@ -100,8 +100,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunpandian08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Arunpandian08/Arunpandian08/output/snake.svg" alt="Snake animation" />
-
-###
