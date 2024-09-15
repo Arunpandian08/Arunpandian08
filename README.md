@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="250" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"  />
+<img align="right" height="250" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"  />
 
 ###
 
