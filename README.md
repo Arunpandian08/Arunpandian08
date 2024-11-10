@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-git-3d-icon-download-in-png-blend-fbx-gltf-file-formats--github-logo-version-control-system-vcs-coding-lang-pack-logos-icons-7578021.png?f=webp" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/m_sharp/512/FFFFFF/github.png" height="40" alt="github logo"  />
+  <img src="https://e7.pngegg.com/pngimages/678/920/png-clipart-github-computer-icons-gitlab-github-cdr-white.png" height="40" alt="github logo"  />
 </div>
 
 ###
