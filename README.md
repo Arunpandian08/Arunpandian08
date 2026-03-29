@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://drive.google.com/drive/folders/13yFqPjNsKMM4sUpJS781O3HjZ1s1_1Wb"  />
+  <img height="250" src="https://drive.google.com/uc?export=view&id=1YeWVdJEtkuQNTpXZ6rFW29pVaIbkxI59"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack Developement<br><br>👨‍💻 All of my projects are available at <a href='https://arun-full-stack-developer-8397.netlify.app/'> Portfolio</a> <br><br>📫 How to reach me arunpandianda123@gmail.com<br><br>📄 Know about my experiences <a href='https://drive.google.com/file/d/1BBrR62lK5MV-BuJ54Ry71pRW6p9Wq5YE/view'>Resume</a> <br><br>⚡ Fun fact Learn && Practice && Food</p>
+<p align="left">🌱 I’m currently learning MERN Stack Developement<br><br>👨‍💻 All of my projects are available at <a href='https://arun-full-stack-developer-8397.netlify.app/'> Portfolio</a> <br><br>📫 How to reach me arunpandianda123@gmail.com<br><br>📄 Know about my experiences <a href='https://drive.google.com/file/d/1zqTNp263fRgSHAhmxnS5asToB43yeaAG/view?usp=sharing'>Resume</a> <br><br>⚡ Fun fact Learn && Practice && Food</p>
 
 ###
 
@@ -88,12 +88,4 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunpandian08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunpandian08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="130" alt="languages graph"  />
-</div>
 
